@@ -1,10 +1,11 @@
 {
-  "/family": "pages/family.js",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/about": "pages/about.js",
-  "/": "pages/index.js",
-  "/joinus": "pages/joinus.js",
-  "/social": "pages/social.js",
-  "/_document": "pages/_document.js"
+  "/about": "pages/about.html",
+  "/family": "pages/family.html",
+  "/": "pages/index.html",
+  "/joinus": "pages/joinus.html",
+  "/social": "pages/social.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }
